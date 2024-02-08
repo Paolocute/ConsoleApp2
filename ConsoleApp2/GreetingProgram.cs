@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp2
 {
-    internal class GreetingPrgram
+    internal class GreetingProgram
     {
         static void Main(string[] args)
         {
